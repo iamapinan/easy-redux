@@ -9,3 +9,5 @@ https://example-redux.firebaseapp.com/
 ![Demo3](./src/images/redux-get-value.png)
 ![Demo4](./src/images/redux-change-value.png)
 :)
+
+<!-- Security scan triggered at 2026-10-07 14:40:02 -->
